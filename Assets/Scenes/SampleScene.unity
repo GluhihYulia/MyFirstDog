@@ -675,7 +675,7 @@ GameObject:
   - component: {fileID: 758471017}
   - component: {fileID: 758471016}
   m_Layer: 0
-  m_Name: DogBody
+  m_Name: DogBody (Yulia)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
