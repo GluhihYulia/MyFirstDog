@@ -2735,6 +2735,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 746790784}
   m_Mesh: {fileID: 4300000, guid: fb4b189d2629f3341a839074d8cff2da, type: 3}
+<<<<<<< HEAD
 --- !u!1 &752748553
 GameObject:
   m_ObjectHideFlags: 0
@@ -2840,6 +2841,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 661bb92 (color)
 --- !u!1 &780436145
 GameObject:
   m_ObjectHideFlags: 0
@@ -7673,8 +7676,4 @@ SceneRoots:
   - {fileID: 1405267583}
   - {fileID: 104865827}
   - {fileID: 1802853039}
-<<<<<<< HEAD
   - {fileID: 1314752127}
-=======
-  - {fileID: 752748557}
->>>>>>> b59fb6be97216b2d3af58ab9b86ff640ad42e8b2
